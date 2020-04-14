@@ -1,6 +1,6 @@
-# scope
-Scope and supporting documents
+# Guidelines
 
+Read the scope document in this folder.
 
 # Contributing
 
