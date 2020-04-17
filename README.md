@@ -25,11 +25,7 @@ Tech required:
 -	Website for business & for consumers (MVP)
 -	Business app for easy order and stock management 
 -	Consumer app for search and payment 
-Additional team needs to execute MVP: 
--	Front end developer(s) 
--	Web development support – TBD 
--	Sales to sign up small businesses 
--	Marketing 
+
 
 MVP scope 
 -	Website that allows for: 
